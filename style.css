@@ -1,0 +1,31 @@
+
+
+body {
+    font-weight: bold;
+    background-image: url(cool-background.png);
+  }
+  
+
+#login_button{
+    background-color: lavenderblush;
+    width: 100px;
+    height: 35px;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#label1 {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#user_name {
+    width: 290px;
+    height: 40px;
+    margin-top: 20px;
+
+}
