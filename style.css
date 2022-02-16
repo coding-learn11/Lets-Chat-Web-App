@@ -29,3 +29,65 @@ body {
     margin-top: 20px;
 
 }
+
+#logout {
+    font-size: 25px;
+    background-color: rgb(139, 162, 228);
+    float: right;
+    height: 45px;
+    margin-top: 5px;
+    border-radius: 9px;
+
+}
+
+#title1 {
+    color: rgb(20, 20, 20);
+    font-family:cursive;
+    font-size: 45px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-top: 80px;
+
+}
+
+#addroom {
+    background-color: rgb(194, 181, 223);
+    font-size: 15px;
+    border-color: rgb(194, 181, 223);
+    height: 35px;
+}
+
+#room_name {
+    height: 30px;
+}
+
+#roomlabel {
+    font-size: 15px;
+}
+
+#output {
+    background-color: rgb(209, 209, 243);
+    width: 80%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.send_message {
+    position: fixed;
+    bottom: 0px;
+    width: 88%;
+    background: rgb(141, 150, 238);
+    margin: 0px;
+    border-radius: 10px;
+}
+
+#msg {
+    width: 60%;
+    margin-bottom: 5px;
+}
+
+#send_button {
+    background-color: rgb(161, 161, 202);
+    border-color: rgb(161, 161, 202);
+    margin-bottom: 5px;
+}
